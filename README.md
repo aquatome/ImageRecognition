@@ -19,14 +19,14 @@ Clone this repo
 git clone https://github.com/aquatome/ImageRecognition.git
 ```
 
-Make the build.sh file executable
+Launch the makefile
 ```
-chmod +x build.sh
+make
 ```
 
-Launch the executable build.sh
+Start the program 
 ```
-./build.sh
+./ImageRecognition
 ```
 
 To clean the folder
