@@ -28,3 +28,8 @@ Launch the executable build.sh
 ```
 ./build.sh
 ```
+
+To clean the folder
+```
+make clean
+```
