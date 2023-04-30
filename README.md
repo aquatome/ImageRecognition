@@ -1,11 +1,9 @@
 # ImageRecognition
 
 ## Introduction
----
 
 
 ## Outils utilisés
----
 <details>
 <summary>Bibliothèques</summary>
 </details>
@@ -15,7 +13,6 @@
 </details>
 
 ## Phase d'apprentissage
----
 <details>
 <summary>Calcul des moments géométriques</summary>
 </details>
@@ -45,7 +42,6 @@
 </details>
 
 ## Reconnaissance des formes
----
 <details>
 <summary>Création de la base de données</summary>
 </details>
