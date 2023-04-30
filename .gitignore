@@ -56,7 +56,6 @@ dkms.conf
 report.pdf
 *.layout
 *.depend
-*.txt
 image_reconstruite.bmp
 main
 ImageRecognition
