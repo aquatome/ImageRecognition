@@ -18,4 +18,3 @@ $(TARGET): $(OBJS)
 
 clean:
 	$(RM) $(OBJS) $(TARGET)
-	$(RM) *.txt
