@@ -56,5 +56,7 @@ dkms.conf
 report.pdf
 *.layout
 *.depend
-matrice.txt
-matrice_des_moments.txt
+*.txt
+image_reconstruite.bmp
+
+
