@@ -5,7 +5,7 @@
 <p align=center>
     <a href="https://github.com/aquatome/ImageRecognition"><img src="https://img.shields.io/badge/C_language-v.201710L-CC0000?style=for-the-badge&logo=c" /></a>
     <a href="https://github.com/aquatome/ImageRecognition"><img src="https://img.shields.io/github/repo-size/aquatome/ImageRecognition.svg?style=for-the-badge&logo=github" /></a>
-
+    <a href="https://github.com/aquatome/ImageRecognition/blob/main/LICENSE"><img src="https://img.shields.io/github/license/aquatome/ImageRecognition.svg?style=for-the-badge&logo=github" /></a>
 
 </p>
 
