@@ -34,17 +34,18 @@ fonctions nécessaires à la réalisation de celle-ci.
 
 Ces bibliothèques sont au nombre de 3 :
 
-- myBmpGris.c : bibliothèque nécessaire à l’initialisation, la création, la copie, la
+- **myBmpGris.c** : bibliothèque nécessaire à l’initialisation, la création, la copie, la
 conversion et la destruction d’images bitmap (format d’image utilisé dans le projet)
 
-- Outils.c : bibliothèque d’initialisation, de création et de destruction de matrices
+- **Outils.c** : bibliothèque d’initialisation, de création et de destruction de matrices
 nécessaires au traitement de l’image sous forme de nombres. Elle contient également des
 fonctions de lecture et d’écritures de valeurs matricielles dans un fichier texte
 
-- Reconnaissance_forme.c : bibliothèque contenant toutes les méthodes
+- **Reconnaissance_forme.c** : bibliothèque contenant toutes les méthodes
 mathématiques de calcul nécessaires aux étapes de reconnaissance des formes :
 l’apprentissage, la reconstruction de l’image pour validation de l’apprentissage et la
 reconnaissance d’une image
+
 </details>
 
 <details>
@@ -57,9 +58,9 @@ Ces structures permettent principalement de créer un type de données
 personnelles afin de pouvoir ranger toutes les informations en fonction des attributs de la
 structure :
 
-- BmpImg : structure contenant les noms et les tailles des images sources au format
+- **BmpImg** : structure contenant les noms et les tailles des images sources au format
 bmp ainsi que la taille des headers.
-- Image : structure contenant les tailles des images à reconstruire, leurs dimensions
+- **Image** : structure contenant les tailles des images à reconstruire, leurs dimensions
 en pixels, l’aire de la forme à reconnaître, les barycentres ainsi que la matrice contenant
 les moments de Legendre de l’image
 
